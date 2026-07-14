@@ -1,1 +1,1 @@
-[![Stats](https://github-stats-extended.vercel.app/api/wakatime?username=5103ce6c-5df0-4d24-93b7-e7badf1b8af4&layout=compact&range=all_time)](https://github.com/stats-organization/github-stats-extended)
+[![Stats](https://github-stats-extended.vercel.app/api/wakatime?username=5103ce6c-5df0-4d24-93b7-e7badf1b8af4&layout=compact&range=all_time&v=6)](https://github.com/stats-organization/github-stats-extended)
