@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=5103ce6c-5df0-4d24-93b7-e7badf1b8af4&theme=dark&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc&hide_border=false&border_color=30363d&v=20260829" alt="WakaTime Stats" width="450" />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=5103ce6c-5df0-4d24-93b7-e7badf1b8af4&theme=dark&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc&hide_border=false&border_color=30363d&v=20260830" alt="WakaTime Stats" width="450" />
   </a>
 </p>
 
